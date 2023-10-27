@@ -49,7 +49,6 @@ class _ViewProfilePhotoState extends State<ViewProfilePhoto> {
       ),
     );
   }
-
   updateProfilePicture(BuildContext context) async {
     return showDialog(
       context: context,
